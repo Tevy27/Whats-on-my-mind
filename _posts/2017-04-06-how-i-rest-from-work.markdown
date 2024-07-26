@@ -1,0 +1,29 @@
+---
+layout: post
+title: Guilt
+date: 2024-07-26 15:04:00 +1100
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+# img: i-rest.jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+# tags: [Holidays, Hawaii]
+---
+## Guilt
+His life was full of promise: a university student with dreams as vast as the starry sky over his town. But one night, that sky became a shroud.
+
+The night was filled with celebration, the air buzzing with the excitement of youth. He felt invincible, caught up in the fun. Laughter echoed as he stumbled to his car, the world tilting with each step. He convinced himself he could drive—the roads were empty, and the trip was short.
+
+Behind the wheel, the night blurred into a haze. The dashboard lights became streaks of color as he navigated the empty streets, his confidence misplaced. An empty bottle lay in the passenger seat.
+
+It happened in an instant—the thud against the car, a solid, dreadful sound, and a child's silhouette spinning into the void. Time shattered. He froze, the reality cutting through his drunken fog. Panic took over, choking his rational thought.
+
+He made a choice that would haunt him forever—he fled. He left not just the scene, but everything he knew. Abroad, the sun never seemed to shine as bright. Shadows clung to him, heavy with guilt. Drink was no longer a friend but a reminder, each sip a bitter echo of that night.
+
+In a life unrecognizable, he withered, his name unknown in self-imposed exile. Guilt tormented him, a constant reminder of that moment. He tried to live a normal life, but he was a ghost haunting his own existence.
+
+He sat in crowded rooms where laughter was a language he couldn't speak, the sound grating against his conscience. At night, he lay in solitude, the darkness of his room less profound than the shadows in his heart. His secret, a heavy anchor, kept him in despair.
+
+Each day was penance, every breath a struggle against self-reproach. He mingled with unfamiliar faces, spoke words that felt like shards of glass on his tongue. The mask of normalcy was brittle, breaking with each fake smile, nod, and hollow greeting.
+
+The child's memory haunted him, a specter at every corner. Strangers who might have been kind, if they knew his name and shame, passed by. The world moved on, but he was stuck in that catastrophic moment.
+
+Unable to escape his guilt, he was a prisoner of his own making. The weight of the life he had taken pressed down on him. His existence became a daily battle with the agony of what he had done. In the end, the burden proved too heavy. Alone and nameless, he faded, consumed by the silent scream of guilt.
