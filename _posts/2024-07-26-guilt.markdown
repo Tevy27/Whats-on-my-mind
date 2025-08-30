@@ -2,12 +2,11 @@
 layout: post
 title: Guilt
 date: 2024-07-26 15:04:00 +1100
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: Test # Add post description (optional)
 # img: i-rest.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 # tags: [Holidays, Hawaii]
 ---
-## Guilt
 His life was full of promise: a university student with dreams as vast as the starry sky over his town. But one night, that sky became a shroud.
 
 The night was filled with celebration, the air buzzing with the excitement of youth. He felt invincible, caught up in the fun. Laughter echoed as he stumbled to his car, the world tilting with each step. He convinced himself he could drive—the roads were empty, and the trip was short.
